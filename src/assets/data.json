@@ -3,7 +3,7 @@
       {
         "date": "01/05/2023",
         "title": "TECHY STAR",
-        "description": "This project is an online recipe sharing platform that allows users to create, share, and explore a wide variety of recipes. The platform is built using HTML, CSS, and JavaScript, making it interactive, user-friendly, and responsive across different devices.",
+        "description": "This project is an online information sharing platform that allows users to create, share, and explore..",
         "url": "https://reactone-zeta-azure.vercel.app/services",
         "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
       },
@@ -11,14 +11,14 @@
       {
         "date": "10/05/2023",
         "title": "VIDEO HUB",
-        "description": "Video Hub is a web application built using HTML, CSS, JavaScript, React, and the Chakra UI library. It serves as a centralized platform for streaming and organizing a wide range of videos. The project is deployed on Vercel, ensuring easy access and scalability for users.",
+        "description": "The project serves as a centralized platform for streaming and organizing a wide range of videos.",
         "url": "https://react-video-app-taupe-five.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
       },
       {
         "date": "15/05/202",
         "title": "SCrypto",
-        "description": "Scrypto is a web-based platform built to provide comprehensive information and insights about various cryptocurrencies. The project utilizes HTML, CSS, JavaScript, and backend technologies to fetch and display real-time data, news, and statistics related to cryptocurrencies. The platform aims to assist users in staying up-to-date with the latest trends and developments in the crypto market.",
+        "description": "Scrypto is a web-based platform built to provide comprehensive information and insights about various cryptocurrencies.",
         "url": "https://scrypto.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
       },
@@ -26,21 +26,21 @@
       {
         "date": "20/05/2023",
         "title": "REACT CART",
-        "description": "React Cart is a web application built using React and Redux Toolkit that simulates an e-commerce shopping cart. The project allows users to add products to their cart, update quantities, and proceed to checkout. By utilizing Redux Toolkit, the application efficiently manages state and facilitates seamless data flow across components.",
+        "description": "The project allows users to add products to their cart, update quantities, and proceed to checkout.",
         "url": "https://react-cart-eosin.vercel.app",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
       {
         "date": "25/05/2023",
         "title": "Youtube Clone",
-        "description": "A YouTube clone project is a web application that mimics the functionality of YouTube. The project would typically involve creating a platform where users can view videos from different domain in which they are interested",
+        "description": "A YouTube clone project is a web application that mimics the functionality of YouTube.",
         "url": "https://glittery-travesseiro-9c660f.netlify.app",
         "imgSrc": "https://i.postimg.cc/j2Y4jg12/youtube.jpg"
       },
       {
         "date": "20/10/2022",
         "title": "PORTFOLIO",
-        "description": "A portfolio website is a personalized online platform that allows individuals to showcase their professional achievements, skills, and projects. It serves as a digital resume, presenting a comprehensive overview of a person's work experience, education, expertise, and accomplishments",
+        "description": "A website is a personalized platform that allows me to showcase my professional achievements, skills, and projects.",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
       }
